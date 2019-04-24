@@ -1,4 +1,4 @@
-# Gridea 主题 Notes
+# Gridea 主题 Fly
 
 一款清爽的 Gridea 主题
 
